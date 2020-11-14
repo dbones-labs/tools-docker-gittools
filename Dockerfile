@@ -1,4 +1,4 @@
-FROM mcr.microsoft.com/dotnet/core/sdk:2.1
+FROM  mcr.microsoft.com/dotnet/sdk:5.0
 
 LABEL repository="https://github.com/dbones-labs/tools-docker-gittools"
 LABEL maintainer="dbones labs" 
