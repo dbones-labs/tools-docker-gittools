@@ -3,4 +3,4 @@
 gitversion and gitreleasemanager
 
 
-.
+
